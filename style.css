@@ -1,0 +1,122 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  background-color: palevioletred;
+}
+
+.imggp{
+  position: absolute;
+  padding: 10px;
+}
+.positionofname {
+position: absolute;
+left: 500px;
+padding-top: 10px;
+}
+.box{
+/* border:3px solid blue ; */
+position: absolute;
+right: 10px;
+width: 500px;
+height: 300px;
+
+} 
+.homegap {
+  position: relative;
+  left:  20px;
+  top: 80px;
+}
+.BOX-1{
+  background-color: brown;
+  width: 1000px;
+  height: 450PX;
+  position: absolute;
+  top: 350px;
+  left: 200px;
+  
+}
+
+.butterskotch{
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+.boxbutterscotch{
+position: absolute;
+left: 0px;
+top: 150px;
+background-color: burlywood;
+/* border: 3px solid black; */
+width:150px ;
+height: 60px;
+}
+.bcr{
+  position: absolute;
+  left: 40px;
+  top: 220px;
+ 
+  }
+.chocolatecake{
+  position: absolute;
+  left: 180px;
+  top: 0px;
+}
+.boxchocolate{
+  position: absolute;
+  left: 0px;
+  top: 150px;
+  background-color: burlywood;
+  /* border: 3px solid black; */
+  width:150px ;
+  height: 60px;
+  }
+  .strawberrycake{
+    position: absolute;
+    left: 180px;
+    top: 0px;
+  }
+  .boxstrawberry{
+    position: absolute;
+    left: 0px;
+    top: 150px;
+    background-color: burlywood;
+    /* border: 3px solid black; */
+    width:150px ;
+    height: 60px;
+    }
+    .blackforestcake{
+      position: absolute;
+      left: 180px;
+      top: 0px;
+    }
+    .boxblackforest{
+      position: absolute;
+      left: 0px;
+      top: 150px;
+      background-color: burlywood;
+      /* border: 3px solid black; */
+      width:150px ;
+      height: 60px;
+      }
+      .whiteforestcake{
+        position: absolute;
+        left: 180px;
+        top: 0px;
+      }
+      .boxwhiteforest{
+        position: absolute;
+        left: 0px;
+        top: 150px;
+        background-color: burlywood;
+        /* border: 3px solid black; */
+        width:150px ;
+        height: 60px;
+        }
+        .acr{
+          position: absolute;
+          left: 40px;
+          top: 220px;
+         
+          }
+          
+       
